@@ -1,6 +1,6 @@
 <p align="center" ><img alt="SpamReport" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-## Olá! Eu sou Marcos Santos, conhecido mais como Slazinn!
+## Olá! Eu sou Marcos Santos, mais conhecido como Slazinn!
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551166491483)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sla_slazinn)
